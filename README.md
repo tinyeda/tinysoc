@@ -4,7 +4,7 @@ TinySoC is an open-source design for a RISC-V system on chip (SoC) CPU with cust
 
 ## Background
 
-Most *open* CPU designs usually include only the digital blocks required for a CPU, and rely on factory provided / proprietary IP for analog blocks.
+Most open CPU designs usually include only the digital blocks required for a CPU, and rely on factory provided / proprietary IP for analog blocks.
 
 There are a few reasons why most open source work has only been done on digital IP:-
 1. Analog IP is highly process specific, so designs aren't portable across different manufacturing processes.
