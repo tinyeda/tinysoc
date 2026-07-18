@@ -1,6 +1,6 @@
 # TinySoC: Open RISC-V CPU
 
-TinySoC is an open-source design for a RISC-V system on chip (SoC) CPU with custom built analog blocks.
+The goal of this project is to tapeout a RISC-V CPU system on chip (SoC) with custom designed analog IP.
 
 ## Background
 
