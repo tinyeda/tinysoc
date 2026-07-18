@@ -1,3 +1,3 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
 title: "TinySoC: Open RISC-V CPU"
 description: "Open Source RISC-V CPU design including all analog and digital IP blocks"
