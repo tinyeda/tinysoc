@@ -1,7 +1,7 @@
 # TinySoC: Open RISC-V CPU
 
 The goal of this project is to tapeout a RISC-V CPU system on chip (SoC) with custom designed analog IP.
-This is being built as an open educational resource for SoC designers and also to enable IP reuse for production designs.
+This is being built as an open educational resource for SoC design and also enable IP reuse for production designs.
 
 ## Background
 
